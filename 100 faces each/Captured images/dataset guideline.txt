@@ -1,0 +1,4 @@
+need to store image per class and class name is the folder name 
+
+e.g 
+Person A folder name and folder A contain the face images of the person and so on 
